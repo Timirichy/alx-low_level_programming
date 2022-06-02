@@ -1,0 +1,4 @@
+#!/bin/bash
+gcc -c $CFILE
+// -c because the instruction says does not link. Explanation below
+{ https://studio.segger.com/index.htm?https://studio.segger.com/cc_option_compile_only.htm }
